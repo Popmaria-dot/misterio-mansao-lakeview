@@ -1,4 +1,3 @@
-
 #  O Mistério da Mansão Lakeview
 
 O Mistério da Mansão Lakeview é um jogo de investigação que estou desenvolvendo em Python, utilizando a biblioteca Tkinter para criar a interface gráfica.
